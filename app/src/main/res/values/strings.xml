@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsZip</string>
+    <string name="search_news">Search News</string>
+    <string name="todo">TODO</string>
+    <string name="go_to_web">Go to Web</string>
+    <string name="something_went_wrong">Something went wrong !</string>
+</resources>
